@@ -1,0 +1,9 @@
+AttendanceId,Name,Roll,Department,Time,Date,Status
+1,Unknown,N/A,N/A,18:38:46,19/03/2026,Present
+2,parth,47,Computer,19:12:12,19/03/2026,Present
+3,parth,48,Mechanical,17:57:13,22/03/2026,Present
+4,Unknown,N/A,N/A,12:08:07,24/03/2026,Present
+5,parth,48,Computer,12:09:01,24/03/2026,Present
+6,harshal,46,IT,16:00:15,24/03/2026,Present
+7,parth nalang,42,Civil,16:03:46,24/03/2026,Present
+8,moksh patel,57,Civil,16:10:03,24/03/2026,Present
